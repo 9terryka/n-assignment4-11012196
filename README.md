@@ -21,6 +21,3 @@ TextInput: For searching jobs.
 Image: For displaying company logos.
 StyleSheet: Used to style the profile section, job listings, and layout.
 
-![alt text](image.png)
-
-![alt text](image-1.png) 
